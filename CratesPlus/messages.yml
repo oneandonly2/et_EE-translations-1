@@ -10,16 +10,15 @@
 # - %prize% - The name of the winning.
 # - %percentage% - Percentage of the winning, useful for "Chance Message".
 
-Prefix: '&2&lLoosikast >'
-Command No Permission: '&cYou do not have the correct permission to run this command'
-Crate No Permission: '&cYou do not have the correct permission to use this crate'
-Crate Open Without Key: '&cSul on vaja kasti %crate% &cvõtit, et seda avada.'
-Key Given: '&aSulle anti kasti %crate% &avõti.'
-Broadcast: '&d%displayname% &dopened a %crate% &dcrate'
-Cant Place: '&cKastide võtmeid ei saa maha panna.'
-Cant Drop: '&cKastide võtmeid ei saa maha visata.'
-Chance Message: '&d%percentage%% võimalus'
-Inventory Full Claim: '&aYou''re inventory is full, you can claim your keys later
-  using /crate'
-Claim Join: '&aYou currently have keys waiting to be claimed, use /crate to claim'
-Possible Wins Title: '| Võimalik võita:'
+Prefix: '&9Loosikast &8| &f'
+Command No Permission: '&7Sul ei ole õigusi selle jaoks!'
+Crate No Permission: '&7Sul ei ole õigusi selle loosikasti jaoks!'
+Crate Open Without Key: '&cSul on vaja kasti &f%crate% võtit&7, et seda avada.'
+Key Given: '&7Sulle anti kasti &f%crate% võti&7.'
+Broadcast: '&7Mängija &f%displayname% &7avas loosikasti &9%crate%&7.'
+Cant Place: '&7Kastide võtmeid ei saa maha panna.'
+Cant Drop: '&7Kastide võtmeid ei saa maha visata.'
+Chance Message: '&f%percentage% &7võimalus..'
+Inventory Full Claim: '&7Sinu seljakott on täis, mistõttu ei saanud neid teile anda. Tehes &9/cr claim &7saate oma võtmed kätte.'
+Claim Join: '&7Teil on praegu võtmed, mis ootavad teie võtmist, kasutades käsklust: &f/cr claim&7.'
+Possible Wins Title: '&7Võimalik võita:&f'
